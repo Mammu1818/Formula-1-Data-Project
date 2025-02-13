@@ -1,4 +1,4 @@
-# Formula-1-Data-Engineering-Project-Using-Azure-Databricks
+# Formula-1 Data Engineering Project Using Azure Databricks
 <h3>Project Overview:</h3>
 This project focuses on developing a data analysis solution for Formula 1 race results using Azure Databricks. It involves building an ETL pipeline to ingest, transform, and load Formula 1 racing data into a data warehouse for reporting and analysis. The data, sourced from Ergast.com a platform dedicated to Formula 1 statistics is stored in Azure Data Lake Gen2. Data transformation and analysis are carried out using Azure Databricks, with the entire workflow orchestrated through Azure Data Factory.
 
